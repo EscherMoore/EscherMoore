@@ -6,26 +6,26 @@ $ about_me
 
                  .mmMMMMMMMMMMMMMmm.                   
              .mMMMMMMMMMMMMMMMMMMMMMMMm.               
-          .mMMMMMMMMMMMMMMMMMMMMMMMMMMMMMm.           escher@github
-        .MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM.         ----------- 
-      .MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM.       OS: Arch Linux 
-     MMMMMMMM'  `"MMMMM"""""""MMMM""`  'MMMMMMMM      Host: Northern Virginia 
-    MMMMMMMMM                           MMMMMMMMM     Kernel: Linux 
-   MMMMMMMMMM:                         :MMMMMMMMMM    Uptime: Programming since 2020 
-  .MMMMMMMMMM                           MMMMMMMMMM.   Packages: No bloatware 
-  MMMMMMMMM"                             "MMMMMMMMM   Shell: zsh 
-  MMMMMMMMM                               MMMMMMMMM   Resolution: 20/20 vision @ spotting bugs 
-  MMMMMMMMM                               MMMMMMMMM   Window Manager: dwm 
-  MMMMMMMMMM                             MMMMMMMMMM   Window Manager Theme: gruvbox 
-  `MMMMMMMMMM                           MMMMMMMMMM`   Text Editor: neovim 
-   MMMMMMMMMMMM.                     .MMMMMMMMMMMM    Text Editor Theme: gruvbox 
-    MMMMMM  MMMMMMMMMM         MMMMMMMMMMMMMMMMMM     Theme: gruvbox 
-     MMMMMM  'MMMMMMM           MMMMMMMMMMMMMMMM      CPU: Coffee (2) @ 8.0fl.oz [85.0°] 
-      `MMMMMM  "MMMMM           MMMMMMMMMMMMMM`       CPU Usage: 100% 
-        `MMMMMm                 MMMMMMMMMMMM`         Memory: I always learn from & remember my mistakes 
-          `"MMMMMMMMM           MMMMMMMMM"`           Disk: coding / the_time (90%) 
+          .mMMMMMMMMMMMMMMMMMMMMMMMMMMMMMm.
+        .MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM.         escher@github
+      .MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM.       -------------
+     MMMMMMMM'  `"MMMMM"""""""MMMM""`  'MMMMMMMM      OS: Arch Linux
+    MMMMMMMMM                           MMMMMMMMM     Host: Northern Virginia
+   MMMMMMMMMM:                         :MMMMMMMMMM    Kernel: Linux
+  .MMMMMMMMMM                           MMMMMMMMMM.   Uptime: Programming since 2020
+  MMMMMMMMM"                             "MMMMMMMMM   Packages: No bloatware
+  MMMMMMMMM                               MMMMMMMMM   Shell: zsh
+  MMMMMMMMM                               MMMMMMMMM   Resolution: 20/20 vision @ spotting bugs
+  MMMMMMMMMM                             MMMMMMMMMM   Window Manager: dwm
+  `MMMMMMMMMM                           MMMMMMMMMM`   Text Editor: neovim
+   MMMMMMMMMMMM.                     .MMMMMMMMMMMM    Theme: gruvbox
+    MMMMMM  MMMMMMMMMM         MMMMMMMMMMMMMMMMMM     CPU: Coffee (2) @ 8.0fl.oz [85.0°]
+     MMMMMM  'MMMMMMM           MMMMMMMMMMMMMMMM      CPU Usage: 100%
+      `MMMMMM  "MMMMM           MMMMMMMMMMMMMM`       Memory: I always learn from & remember my mistakes
+        `MMMMMm                 MMMMMMMMMMMM`         Disk: coding / the_time (90%)
+          `"MMMMMMMMM           MMMMMMMMM"`
              `"MMMMMM           MMMMMM"`           
-                 `""M           M""`               
+                 `""M           M""`
 
 ```
 
