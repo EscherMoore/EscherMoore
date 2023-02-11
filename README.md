@@ -26,7 +26,6 @@ $ about_me
           `"MMMMMMMMM           MMMMMMMMM"`
              `"MMMMMM           MMMMMM"`           
                  `""M           M""`
-
 ```
 
 #### Languages I use
