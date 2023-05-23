@@ -16,7 +16,7 @@ $ about_me
   MMMMMMMMM"                             "MMMMMMMMM   Packages: No bloatware
   MMMMMMMMM                               MMMMMMMMM   Shell: zsh
   MMMMMMMMM                               MMMMMMMMM   Resolution: 20/20 vision @ spotting bugs
-  MMMMMMMMMM                             MMMMMMMMMM   Window Manager: dwm
+  MMMMMMMMMM                             MMMMMMMMMM   Window Manager: Hyprland
   `MMMMMMMMMM                           MMMMMMMMMM`   Text Editor: neovim
    MMMMMMMMMMMM.                     .MMMMMMMMMMMM    Theme: gruvbox
     MMMMMM  MMMMMMMMMM         MMMMMMMMMMMMMMMMMM     CPU: Coffee (2) @ 8.0fl.oz [85.0°]
